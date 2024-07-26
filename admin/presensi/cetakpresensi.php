@@ -5,7 +5,7 @@ include '../../config/koneksi.php';
 <!DOCTYPE html>
 <html>
 <head>
-<title>KRISMA | PRESENSI</title>
+<title>SMK SDL </title>
     <link rel="shortcut icon" href="<?= $config['base_url']; ?>images/logokrisma.png" />
 </head>
 <body>
@@ -49,8 +49,8 @@ hr {
   <td> <img src="../../images/logokrisma.png" width="120px"> </td>
   <td class = "tengah">
   <h2>LAPORAN DATA PRESENSI SISWA</h2>
-      <h1>SMK KRISTEN 5 KLATEN</h1>
-      <b>Jln. Opak, Metuk, Tegalyoso, Klaten Selatan, Klaten, Jawa Tengah, Indonesia.</b>
+      <h1>SMK SUNAN DRAJAT</h1>
+      <b>KOMPLEK PONDOK PESANTREN SUNAN DRAJAT LAMONGAN</b>
       <hr>
   </td>
   
