@@ -1,0 +1,5 @@
+<li class="nav-item">
+            <a href="http://localhost/krisma/admin/index.php" class="nav-link">
+                <i class="fa fa-home"></i> <span>Home</span>
+            </a>
+        </li><li class='nav-item'><a href='http://localhost/krisma/admin/rekapdata/rekapdata.php' class='nav-link'><i class='fa fa-cog'></i> Rekap Data</a></li><li class='nav-item'><a href='http://localhost/krisma/admin/updateprofil/updateprofil.php' class='nav-link'><i class='fa fa-cog'></i> Update Profil</a></li>

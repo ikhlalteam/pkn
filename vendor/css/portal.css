@@ -1,0 +1,27 @@
+.colr {
+  color: #ffd665;
+}
+
+.box {
+  padding: 30px;
+  color: #00c0da;
+  text-align: center;
+  cursor: pointer;
+  font-size: 20px;
+  border-radius: 0;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  margin-top: 10px;
+}
+.box:hover {
+  color: #fff;
+  background-color: #0098d4;
+  border-color: #4c5218;
+  transition: 0.5s;
+}
+
+.icon-menu {
+  font-size: 100px;
+}
+a {
+  text-decoration: none !important;
+}

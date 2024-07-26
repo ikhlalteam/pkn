@@ -1,0 +1,14 @@
+<li class="nav-item">
+            <a href="http://localhost/krisma/admin/index.php" class="nav-link">
+                <i class="fa fa-home"></i> <span>Home</span>
+            </a>
+        </li><li class='nav-item'>
+                    <a href='#' class='nav-link'>
+                        <i class='fa fa-cog'></i> <span>Fingerprint </span>
+                        <span class='pull-right-container'>
+                            <i class='fa fa-angle-left pull-right'></i>
+                        </span>
+                    </a>
+                    <ul class='nav nav-treeview'><li class='nav-item'><a href='http://localhost/krisma/admin/sdk/index.php?m=content&p=scanlog'  class='nav-link'><i class='fa fa-arrow-right'></i> Data Scanlog</a></li><li class='nav-item'><a href='http://localhost/krisma/admin/sdk/index.php?m=content&p=user'  class='nav-link'><i class='fa fa-arrow-right'></i> Data User</a></li><li class='nav-item'><a href='http://localhost/krisma/admin/sdk/index.php?m=content&p=info'  class='nav-link'><i class='fa fa-arrow-right'></i> Info</a></li>
+                    </ul>
+                </li><li class='nav-item'><a href='http://localhost/krisma/admin/presensi/presensi.php' class='nav-link'><i class='fa fa-cog'></i> Presensi</a></li><li class='nav-item'><a href='http://localhost/krisma/admin/rekapdata/rekapdata.php' class='nav-link'><i class='fa fa-cog'></i> Rekap Data</a></li><li class='nav-item'><a href='http://localhost/krisma/admin/updateprofil/updateprofil.php' class='nav-link'><i class='fa fa-cog'></i> Update Profil</a></li>
