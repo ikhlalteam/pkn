@@ -2,7 +2,6 @@
 session_start();
 // include 'config/database_connection.php';
 include 'controller/cek_login.php';
-
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -10,7 +9,7 @@ include 'controller/cek_login.php';
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>SMKSDL</title>
+  <title>SMKSDL - Login Pegawai</title>
   <link rel="shortcut icon" href="https://th.bing.com/th/id/OLC.NTJfswW5MHqYyQ480x360?&rs=1&pid=ImgDetMain" />
   <!-- Google Font: Source Sans Pro -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
@@ -20,12 +19,69 @@ include 'controller/cek_login.php';
   <link rel="stylesheet" href="vendor/plugins/icheck-bootstrap/icheck-bootstrap.min.css">
   <!-- Theme style -->
   <link rel="stylesheet" href="vendor/dist/css/adminlte.min.css">
+  <style>
+    .login-box {
+      width: 360px;
+      margin: 7% auto;
+      padding: 20px;
+      border-radius: 20px; /* Rounded corners */
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Shadow effect */
+      background: #fff; /* White background for contrast */
+    }
+
+    .login-logo {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    .login-logo a {
+      font-size: 24px;
+      font-weight: bold;
+      color: #333;
+    }
+
+    .login-logo img {
+      width: 100px;
+      margin-bottom: 20px;
+    }
+
+    .card {
+      border-radius: 20px;
+      border: none;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    }
+
+    .login-card-body {
+      padding: 30px;
+    }
+
+    .login-box-msg {
+      font-size: 18px; 
+      font-weight: 600;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+
+    .btn-block {
+      border-radius: 25px;
+      padding: 10px 0;
+    }
+
+    .alert {
+      margin-bottom: 20px;
+    }
+
+    .social-auth-links a {
+      border-radius: 25px;
+      padding: 10px 0;
+    }
+  </style>
 </head>
 
 <body class="hold-transition login-page">
   <div class="login-box">
     <div class="login-logo">
-      <a href="#"><b>SMK</b> SDL</a>
+      <a href="#"><img src="https://th.bing.com/th/id/OLC.NTJfswW5MHqYyQ480x360?&rs=1&pid=ImgDetMain" alt="SMKSDL Logo"></a>
     </div>
     <!-- /.login-logo -->
     <div class="card">
