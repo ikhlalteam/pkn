@@ -5,7 +5,7 @@ include '../../config/koneksi.php';
 <!DOCTYPE html>
 <html>
 <head>
-<title>KRISMA | PRESENSI</title>
+<title>SMK SDL </title>
     <link rel="shortcut icon" href="<?= $config['base_url']; ?>images/logokrisma.png" />
 </head>
 <body>
@@ -50,7 +50,11 @@ hr {
   <td class = "tengah">
   <h2>LAPORAN DATA PRESENSI SISWA</h2>
       <h1>SMK SUNAN DRAJAT</h1>
+<<<<<<< HEAD
       <b>KOMPLEK PONDOK PESANTREN SUNAN DRAJAT</b></b>
+=======
+      <b>KOMPLEK PONDOK PESANTREN SUNAN DRAJAT LAMONGAN</b>
+>>>>>>> 9c8be2271a3a33871925f686978bf196bfe2924d
       <hr>
   </td>
   

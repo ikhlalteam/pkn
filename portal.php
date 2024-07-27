@@ -18,27 +18,26 @@
   
   <style>
     body {
-      background-image: url('https://th.bing.com/th/id/OIP.3HGilCJBpZKorMyhUHNUEAHaDv?rs=1&pid=ImgDetMain');
+      background-image: url('https://biayapesantren.id/wp-content/uploads/2021/07/Ponpes-Sunan-Drajat.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       background-attachment: fixed;
-      color: #fff; /* Change text color to white for better readability */
+      color: #fff; 
     }
     .content-section {
-      background-color: rgba(0, 0, 0, 0.5); /* Darker semi-transparent background */
+      background-color: rgba(0, 0, 0, 0.5); 
       border-radius: 15px;
       padding: 30px;
       margin-top: 50px;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     }
     .box {
-      background-color: rgba(0, 0, 0, 0.6); /* Darker semi-transparent background */
-      border-radius: 10px;
+      background-color: rgba(0, 0, 0, 0.6); 
       padding: 20px;
       margin-bottom: 20px;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
       transition: transform 0.2s ease-in-out;
-      color: #fff; /* Change text color to white for better readability */
+      color: #fff; 
     }
     .box:hover {
       transform: scale(1.05);
@@ -55,7 +54,7 @@
     <div class="row">
       <div class="col-md-12">
         <div style="text-align: center; padding: 20px;">
-          <img src="https://th.bing.com/th/id/OIP._jqOywq34yJi3d-i71ASWgHaE4?pid=ImgDet&w=185&h=121&c=7" alt="Tut Wuri Handayani Logo" style="width: 100%; max-width: 150px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+          <img src="https://1.bp.blogspot.com/-J1MgMlJOUqY/YRVFu-HxDnI/AAAAAAAAAck/rhxtPFWiBj4PAQxJGK258likfU1_rBDtQCLcBGAsYHQ/s1181/SMK%2BBisa%2BHebat%2BV4.png" alt="Tut Wuri Handayani Logo" style="width: 100%; max-width: 150px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
         </div>
         <h2><i class="fa fa-home"></i> Selamat Datang</h2>
         <p class="lead mb-5">SISTEM PRESENSI SMK SUNAN DRAJAT</p>
@@ -63,7 +62,7 @@
       <div class="col-md-4">
         <a href="https://smksunandrajat.sch.id/">
           <div class="box">
-            <img src="https://th.bing.com/th/id/OLC.NTJfswW5MHqYyQ480x360?&rs=1&pid=ImgDetMain" alt="Krisma Logo" style="width:100px;height:110px">
+            <img src="https://smksunandrajat.sch.id/v3/assets/img/smksdl-logo.png" alt="Krisma Logo" style="width:100px;height:100px">
             <br>
             Website SMK SUNAN DRAJAT
           </div>
